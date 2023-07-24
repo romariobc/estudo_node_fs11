@@ -1,0 +1,14 @@
+{
+  "name": "estudo_node_fs11",
+  "version": "1.0.0",
+  "description": "arquivo de estudo node da dc fs11",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "romariobc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
