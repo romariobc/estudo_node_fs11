@@ -1,0 +1,27 @@
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos gerados por IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Arquivos de build
+build/
+dist/
+
+# Arquivos de configuração de ambiente
+.env
+
+# Outros arquivos específicos do projeto
+config.js
+secrets.json
